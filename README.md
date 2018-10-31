@@ -4,7 +4,7 @@
 - [x] Basic JavaScript and Base and Templates HTML file been separated via New Repo. 
     - 1 [Nova](https://github.com/ashkankamyab/Djanblogo/TEMPLATES/NOVA)
     - 2 [Modernizer](https://github.com/ashkankamyab/Djanblogo/TEMPLATES/NOVA)
-- [ ] Logo and images
+- [x] Logo and images
 - [ ] Deplyment Template
     - [ ] gunicorn
         - [ ] pyPIP
